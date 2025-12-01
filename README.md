@@ -1,2 +1,7 @@
-# Modelos-de-Regressao-2
-Trabalho de Modelos de Regressão 2
+# Modelos de Regressao 2
+## Trabalho de Modelos de Regressão 2
+
+Nome: João Pedro Farjoun Silva
+N° USP: 13731319
+
+Professora: Cibelle Russo
