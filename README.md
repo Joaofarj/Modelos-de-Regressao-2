@@ -3,4 +3,4 @@
 Nome: João Pedro Farjoun Silva
 N° USP: 13731319
 
-Professora: Cibelle Russo
+Professora: Cibele Russo
