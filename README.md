@@ -1,7 +1,7 @@
 # SME0823 – Avaliação 2  
-### Modelos de Regressão e Aprendizado Supervisionado II
+### SME0823 - Modelos de Regressão e Aprendizado Supervisionado II
 
-Este repositório contém o notebook e os códigos utilizados para a resolução da Avaliação 2 da disciplina **SME0823**, ofertada pelo Instituto de Matemática e Estatística da USP.
+Este repositório contém o notebook e os códigos utilizados para a resolução da Avaliação 2 da disciplina **SME0823**, ofertada pelo ICMC.
 
 O trabalho envolve:
 
